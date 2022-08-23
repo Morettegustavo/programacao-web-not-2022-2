@@ -4,7 +4,12 @@
 
  * **`Meus estudos de Programação web, utilizando framework (next js + react).`**
 # Conteúdos vistos sobre a linguagem
-- [ ] Configuração de ambiente (next js + react)
-
+- [x] Configuração de ambiente (next js)
+* Precisamos ter o node js instalado.
+* Rodamos o seguinte comando para criar o projeto
+ * **`npx create-next-app nome_projeto`**
+* Para subir o projeto rodamos o comando:
+* **`npm run dev`**
+***
 
 ![rodape-fatec](https://user-images.githubusercontent.com/88351614/184510549-ba805cc6-1ae7-422e-9d71-a037e9b1e936.png)
